@@ -60,7 +60,7 @@ GUARD  <br /><span className="text-transparent bg-clip-text bg-gradient-to-r fro
               </div>
               <div className="absolute bottom-0 left-0 p-6 w-full flex items-center justify-between border-t border-white/5 bg-[#030a16]/90 backdrop-blur-sm">
                 <h4 className="text-white font-bold uppercase text-xs tracking-widest">{img.title}</h4>
-                <span className="text-yellow-500 text-xs font-mono">// UNIT_0{idx+1}</span>
+                <span className="text-yellow-500 text-xs font-mono"> UNIT_0{idx+1}</span>
               </div>
             </div>
           ))}

@@ -125,7 +125,7 @@ const Contact = () => {
             
             {/* Real Headquarters Data Node */}
             <div className="bg-[#040d1c] p-8 border border-white/5 rounded-sm">
-              <h4 className="text-yellow-500 font-black uppercase tracking-widest text-xs mb-6">// CENTRAL_COMMAND_INTEL</h4>
+              <h4 className="text-yellow-500 font-black uppercase tracking-widest text-xs mb-6"> CENTRAL_COMMAND_INTEL</h4>
               
               <div className="space-y-4 text-xs">
                 <div className="flex items-start space-x-3">
@@ -142,7 +142,7 @@ const Contact = () => {
                     <span className="font-bold text-white block uppercase text-[10px] tracking-wider mb-1">Mobile Registers:</span>
                     <a href="tel:+918400431866" className="hover:text-yellow-500 block transition">+91-8400431866</a>[cite: 1]
                     <a href="tel:+918005332618" className="hover:text-yellow-500 block transition">+91-8005332618</a>
-                    <a href="tel:+918960571255" className="hover:text-yellow-500 block transition">+91-8960571255</a>[cite: 1]
+                    <a href="tel:+918960571255" className="hover:text-yellow-500 block transition">+91-7897149596</a>[cite: 1]
                   </div>
                 </div>
 
@@ -159,14 +159,14 @@ const Contact = () => {
 
             {/* Official Legal Branch Infrastructure Tracker */}
             <div className="bg-[#040d1c] p-8 border border-white/5 rounded-sm">
-              <h4 className="text-yellow-500 font-black uppercase tracking-widest text-xs mb-4">// REGIONAL_FORCE_UNITS</h4>
+              <h4 className="text-yellow-500 font-black uppercase tracking-widest text-xs mb-4"> REGIONAL_FORCE_UNITS</h4>
               <p className="text-gray-400 text-xs leading-relaxed mb-4">
                 Our active deployment framework covers critical industrial hubs across these sub-command locations:
               </p>
               <ul className="space-y-2 text-xs font-mono text-gray-300 pl-2 border-l border-yellow-500/30">
-                <li>• PANCHAL GHAT, FARRUKHABAD</li>
-                <li>• SANDILA, HARDOI</li>
-                <li>• SHUKLA GANJ, KIDWAI NAGAR, KANPUR</li>
+                <li>• Lucknow, Indira Nagar, Vikas Nagar</li>
+                <li>• Gomti Nagar, Cinhut, Aliganj</li>
+                <li>• Saheed Path Road, Hazartganj, Maha Nagar</li>
               </ul>
             </div>
 

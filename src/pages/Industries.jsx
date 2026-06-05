@@ -5,42 +5,42 @@ const Industries = () => {
     {
       title: "Industrial & Factory Policing",
       icon: "🏭",
-      blueprint: "IND-GRID // AREA_ALPHA",
+      blueprint: "IND-GRID  AREA_ALPHA",
       desc: "Hum factories, mills, aur industrial estates ko full security cover dete hain[cite: 1]. Isme shift rotation management, perimeter control, aur raw material gate-pass tracking shaamil hai.",
       features: ["Factories & Mills[cite: 1]", "Industrial Estates[cite: 1]", "Warehouses & Godowns[cite: 1]"]
     },
     {
       title: "Educational & School Campus Security",
       icon: "🏫",
-      blueprint: "EDU-SAFE // AREA_BRAVO",
+      blueprint: "EDU-SAFE  AREA_BRAVO",
       desc: "Schools aur degree colleges ke liye disciplined security deployment[cite: 1]. Entry/exit gates par strict monitoring, identity checking, aur student safety parameters ko enforce kiya jata hai.",
       features: ["Primary & High Schools[cite: 1]", "Degree Colleges[cite: 1]", "Engineering Institutes[cite: 1]"]
     },
     {
       title: "Clinical & Hospital Enclaves",
       icon: "🏥",
-      blueprint: "MED-LOCK // AREA_CHARLIE",
+      blueprint: "MED-LOCK  AREA_CHARLIE",
       desc: "Hospitals aur nursing homes ke liye sensitive 24/7 crowd-control control setup[cite: 1]. Emergency wards, parking zones, aur critical care units me zero-disturbance protection deployment.",
       features: ["Nursing Homes[cite: 1]", "Diagnostic Centers[cite: 1]", "Trauma Centers[cite: 1]"]
     },
     {
       title: "Corporate Malls & Showrooms",
       icon: "🏢",
-      blueprint: "RETAIL-SHIELD // AREA_DELTA",
+      blueprint: "RETAIL-SHIELD  AREA_DELTA",
       desc: "Premium consumer spots, luxury hotels, aur automobile showrooms ke liye highly presentable guards aur bouncers deployment[cite: 1]. Threat detection aur asset protection loops ke sath.",
       features: ["Shopping Malls[cite: 1]", "Automobile Showrooms[cite: 1]", "Hotels & Restaurants[cite: 1]"]
     },
     {
       title: "VVIP Residences & Societies",
       icon: "🏗️",
-      blueprint: "DOMESTIC-SHIELD // AREA_ECHO",
+      blueprint: "DOMESTIC-SHIELD  AREA_ECHO",
       desc: "High-profile IAS/IPS officers, judges, aur elite apartments ke liye access-control gate configuration[cite: 1]. CCTV monitoring aur vehicle logbook systems ke sath.",
       features: ["Apartment Buildings[cite: 1]", "VVIP Private Houses[cite: 1]", "Construction Sites[cite: 1]"]
     },
     {
       title: "Banquet Lawns & Event Security",
       icon: "🎪",
-      blueprint: "EVENT-FORCE // AREA_ZETA",
+      blueprint: "EVENT-FORCE  AREA_ZETA",
       desc: "Marriage lawns, premium corporate events, aur large gatherings ke liye dynamic heavy-force bouncer squads deploy kiye jaate hain[cite: 1]. Entry filter locks aur quick-reaction capability ke sath.",
       features: ["Marriage Lawns[cite: 1]", "Corporate Banquets[cite: 1]", "VIP Public Events[cite: 1]"]
     }
